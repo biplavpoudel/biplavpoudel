@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biplavpoudel.
-- 👀 I’m interested in Artificial Intelligence, Computer Graphics and Cybersecurity.
+- 👀 I’m interested in Artificial Intelligence, Image Processing, Database Science and Cybersecurity.
 - 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on: No, nothing. Currently I am learning CS.
+- 💞️ I’m looking to collaborate on: everything you can find. I need some challenge.
 - 📫 How to reach me: biplavpoudel764@gmail.com
 
 <!---
