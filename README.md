@@ -8,10 +8,10 @@
 biplavpoudel/biplavpoudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="github-readme-stats-eta-two-76.vercel.app">
   <img height=200 align="center" src="github-readme-stats-eta-two-76.vercel.app/api/pin/?username=biplavpoudel&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="github-readme-stats-eta-two-76.vercel.app">
   <img height=200 align="center" src="github-readme-stats-eta-two-76.vercel.app/api/pin/?username=biplavpoudel&repo=convoychat"" />
 </a>
 
