@@ -9,7 +9,7 @@ biplavpoudel/biplavpoudel is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-git-master-biplav-poudels-projects.vercel.app/" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-biplav-poudels-projects.vercel.app" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-git-master-biplav-poudels-projects.vercel.app/api/top-langs?username=biplavpoudel&show_icons=true&layout=compact&card_width=320" />
