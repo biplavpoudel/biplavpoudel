@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <div class="container">
   <div class="row">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biplavpoudel" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=biplavpoudel&layout=compact&card_width=320" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplavpoudel&show_icons=true&layout=compact&card_width=320" />
