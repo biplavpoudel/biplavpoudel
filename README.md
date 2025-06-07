@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biplavpoudel.
-- 👀 I’m interested in Artificial Intelligence, Web Development and DevOps.
+- 👀 I’m interested in MLOps and System Engineering.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on: everything you can find. I have so much to learn!
 - 📫 How to reach me: biplavpoudel764@gmail.com
