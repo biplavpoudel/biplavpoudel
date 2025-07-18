@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-size: 3em;">Biplav Poudel</h1>
-  <p>
+  <p style="text-align: center;">
     <span style="font-size: 1.8em; font-weight: bold; color: #007ACC;">MLOps Engineer</span> • 
     <span style="font-size: 1.8em; font-weight: bold; color: #28A745;">Cloud Native</span> • 
     <span style="font-size: 1.8em; font-weight: bold; color: #FFD700;">Agentic AI</span>
@@ -30,31 +30,31 @@ What I'm working on:
   <p>
     <img src="https://skillicons.dev/icons?i=python,java,bash,fastapi,pytorch,flask" />
   </p>
-  Python • Java • Bash • FastAPI • PyTorch • Flask • Django • LangChain • AsyncIO
+  <p style="text-align: center;">Python • Java • Bash • FastAPI • PyTorch • Flask • LangChain • AsyncIO</p>
 
   <h3>☁️ Infrastructure</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,redhat,openshift,podman" />
   </p>
-  Docker • Kubernetes • AWS • GCP • Fedora Linux • OpenShift • Podman 
+  <p style="text-align: center;">Docker • Kubernetes • AWS • GCP • Fedora Linux • OpenShift • Podman</p>
 
   <h3>💾 Databases</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,sqlserver" />
   </p>
-  PostgreSQL • SQL Server • MySQL • MongoDB • Redis • SQLite
+  <p style="text-align: center;">PostgreSQL • SQL Server • MySQL • MongoDB • Redis • SQLite</p>
 
   <h3>🔄 DevOps & Automation</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,azuredevops" />
   </p>
-  Git • GitHub Actions • Azure DevOps
+  <p style="text-align: center;">Git • GitHub Actions • Azure DevOps</p>
 
   <h3>🖥️ Development Environment</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode,vim" />
   </p>
-  JetBrains IDEs • VS Code • Linux CLI • Shell Scripting
+  <p style="text-align: center;">JetBrains IDEs • VS Code • Linux CLI • Shell Scripting</p>
 </div>
 
 ---
