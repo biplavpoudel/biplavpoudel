@@ -9,8 +9,11 @@
 
 ---
 
-🚀 About Me
-I'm passionate about creating intelligent systems that bridge the gap between machine learning and production infrastructure. Currently focused on integrating LLMs with developer tooling and building robust automation pipelines that scale.
+🚀 About Me:
+
+I'm passionate about creating intelligent systems that bridge the gap between machine learning and production infrastructure.
+Currently focused on integrating LLMs with developer tooling and building robust automation pipelines that scale.
+
 What I'm working on:
 
 * 🤖 Building agentic workflows with LangGraph, FastAPI, Ollama, and Gradio
@@ -64,12 +67,11 @@ What I'm working on:
 </div>
 
 ---
-
 <div align="center">
   <h3>Let's Connect</h3>
-  <p style="display: flex; justify-content: center; gap: 25px;">
-    <a href="mailto:biplavpoudel764@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width: 45px; height: 45px; vertical-align: middle;"></a> 
-    <a href="https://linkedin.com/in/biplavpoudel"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 45px; height: 45px; vertical-align: middle;"></a> 
-    <a href="https://github.com/biplavpoudel"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 45px; height: 45px; vertical-align: middle;"></a>
+  <p style="display: flex; justify-content: center; gap: 70px;">
+    <a href="mailto:biplavpoudel764@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width: 50px; height: 50px; vertical-align: middle;"></a> 
+    <a href="https://linkedin.com/in/biplavpoudel" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 50px; height: 50px; vertical-align: middle;"></a> 
+    <a href="https://github.com/biplavpoudel" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px; vertical-align: middle;"></a>
   </p>
 </div>
