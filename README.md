@@ -34,9 +34,9 @@ What I'm working on:
 
   <h3>☁️ Infrastructure</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,redhat,openshift,podman" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,redhat,openshift,podman,terraform" />
   </p>
-  <p style="text-align: center;">Docker • Kubernetes • AWS • GCP • Fedora Linux • OpenShift • Podman</p>
+  <p style="text-align: center;">Docker • Kubernetes • AWS • GCP • Fedora Linux • OpenShift • Podman • Terraform</p>
 
   <h3>💾 Databases</h3>
   <p>
