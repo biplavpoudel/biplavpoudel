@@ -1,39 +1,45 @@
 <div align="center">
-  <h2 style="font-size: 3em;">Biplav Poudel</h2>
-  <p style="text-align: center; font-size: 1.4em;">
-    Cloud & Platform Engineer • Linux Systems • Distributed Infrastructure
+  <h1>Biplav Poudel</h1>
+  <p align="center">
+    <strong>Cloud & Platform Engineer • Linux Systems • Distributed Infrastructure</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/biplavpoudel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 </div>
 
-----
+---
 
-### 🧩 Core Engineering Expertise
+### 🧩 Expertise
+* **Linux Systems Engineering:** Specializing in RHEL-based distributions and system automation.
+* **Platform Engineering:** Designing scalable, distributed cloud infrastructure.
+* **Orchestration:** Hands-on with Kubernetes, OpenShift, and containerized environments.
+* **Networking:** Implementing robust network architectures for cloud and hybrid systems.
 
-#### 1. Linux Systems Engineering
-#### 2. Networking
-#### 3. Cloud Architecture & Platform Engineering
-#### 4. Containers, Orchestration & Virtualization
-----
+---
 
-### 🛠️ Working Stack
+### 🛠️ Technical Stack
 
-#### 1. **Languages & Frameworks**  Python • Bash • Java • FastAPI • PyTorch • Flask • AsyncIO
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, Bash, Java, C# |
+| **Cloud** | AWS, Oracle Cloud (OCI), GCP |
+| **Infrastructure** | Kubernetes, OpenShift, Terraform, Podman, RHEL, KVM |
+| **Databases** | PostgreSQL, MongoDB, Redis, MySQL, SQL Server |
+| **DevOps** | Git, GitHub Actions, Prometheus, Grafana, Systemd Automation |
 
-#### 2. **Cloud Platforms**  AWS • Oracle Cloud • GCP
+---
 
-#### 3. **Infrastructure Technologies** Fedora Linux • RHEL • Oracle Linux • Kubernetes • OpenShift • Podman • Terraform
+### 💻 Skills & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,redhat,kubernetes,terraform,docker,aws,gcp,python,bash,java,postgres,mongodb,redis,githubactions,git,pycharm,vscode" />
+  </a>
+</p>
 
-#### 4. **Databases** PostgreSQL • MongoDB • MySQL • Redis • SQLite • SQL Server
+---
 
-#### 5. **DevOps & Automation**  Git • GitHub Actions • CI/CD • Systemd automation • Webhook-driven workflows
-
-#### 6. **Tooling & Environment**  PyCharm • JetBrains IDEs • VS Code • Linux CLI • Vim
-----
 <div align="center">
-  <h3>Connect</h3>
-  <p style="display: flex; justify-content: center; gap: 70px;">
-    <a href="mailto:biplavpoudel764@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" style="width: 50px; height: 50px;"></a> 
-    <a href="https://linkedin.com/in/biplavpoudel" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 50px; height: 50px;"></a> 
-    <a href="https://github.com/biplavpoudel" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px;"></a>
-  </p>
+  <sub>Built with precision and a love for Open Source. 🐧</sub>
 </div>
